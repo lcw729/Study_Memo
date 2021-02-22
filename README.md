@@ -11,6 +11,9 @@
 ## Web
 * [Internet](https://www.notion.so/Internet-f6114addd46444a59042936947199936)
 * [GET vs POST](https://www.notion.so/GET-VS-POST-87cf1e21c319461b9a5d599c6070c8c7)
+* [CSS](https://www.notion.so/CSS-Cascading-Style-Sheets-7e105b9865b44834be1e98d1afe9812c)
+* [CSS GRID](https://www.notion.so/CSS-Grid-CSS-Layout-6b6c8e65709547bcabec0dc554d042c8)
+
 
 ## SSD
 * [kakao Tech 문서](https://tech.kakao.com/2016/07/13/coding-for-ssd-part-1/)를 참고해 정리한 내용입니다.
