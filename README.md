@@ -23,5 +23,4 @@
 * [Part5] [접근 방법과 시스템 최적화]
 
 # ML
-
-# [CNN](https://chaaaaewoncode.tistory.com/22)
+* [CNN](https://chaaaaewoncode.tistory.com/22)
