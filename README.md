@@ -22,5 +22,5 @@
 * [Part4] [고급 기능과 내부 병렬 처리](https://www.notion.so/Part-4-9223d83f8c4842bdad55d9c9e30e4f11)
 * [Part5] [접근 방법과 시스템 최적화]
 
-# ML
+## ML
 * [CNN](https://chaaaaewoncode.tistory.com/22)
