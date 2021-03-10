@@ -29,3 +29,4 @@
 
 ## ML
 * [CNN](https://chaaaaewoncode.tistory.com/22)
+* [mAP](https://chaaaaewoncode.tistory.com/34)
